@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_React_Fast_Food_Online.Server.props" />
+</Project>

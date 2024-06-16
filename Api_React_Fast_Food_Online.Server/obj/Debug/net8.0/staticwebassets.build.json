@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "bVgZLBaEghFoaIv6rW8kmDh9iK3P4ggRuXgtck+6A78=",
+  "Source": "Api_React_Fast_Food_Online.Server",
+  "BasePath": "_content/Api_React_Fast_Food_Online.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj",
+      "Version": 2,
+      "Source": "api_react_fast_food_online.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

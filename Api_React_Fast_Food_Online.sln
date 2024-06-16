@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_React_Fast_Food_Online.Server", "Api_React_Fast_Food_Online.Server\Api_React_Fast_Food_Online.Server.csproj", "{025BB9B5-0FBA-4C92-9B14-E61D64842E03}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "api_react_fast_food_online.client", "api_react_fast_food_online.client\api_react_fast_food_online.client.esproj", "{CDCEFB3F-62F8-4257-BF00-6EC593266437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025BB9B5-0FBA-4C92-9B14-E61D64842E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BB9B5-0FBA-4C92-9B14-E61D64842E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BB9B5-0FBA-4C92-9B14-E61D64842E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BB9B5-0FBA-4C92-9B14-E61D64842E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCEFB3F-62F8-4257-BF00-6EC593266437}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D970BDD0-26FC-48DF-9790-E7B268930D93}
+	EndGlobalSection
+EndGlobal
