@@ -1,7 +1,4 @@
-﻿using System.Text;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Api_React_Fast_Food_Online.Server.Data;
 using Api_React_Fast_Food_Online.Server.Models;
@@ -9,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Api_React_Fast_Food_Online.Server.Interfaces;
 using Api_React_Fast_Food_Online.Server.Services;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -58,22 +56,26 @@ builder.Services.AddAuthentication(options =>
 
 // Register services and repositories
 builder.Services.AddScoped<RolesInterface, RolesServices>();
+builder.Services.AddScoped<ISupplierInterface, SupplierServices>();
+builder.Services.AddScoped<ICategoryInterface, CategoryServices>();
+builder.Services.AddScoped<IProductItemInterface, ProductItemServices>();
 
 // Add controllers and Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
 // Configure CORS policy
-// builder.Services.AddCors(options =>
-// {
-//     options.AddPolicy("AllowReactApp",
-//         builder => builder
-//             .WithOrigins("http://localhost:5173")
-//             .AllowAnyHeader()
-//             .AllowAnyMethod()
-//             .AllowCredentials());
-// });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactApp",
+        builder => builder
+            .WithOrigins("http://localhost:5173")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials());
+});
 
 var app = builder.Build();
 
@@ -93,14 +95,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
-app.UseCors(builder =>
-{
-    builder.AllowAnyOrigin()
-           .AllowAnyMethod()
-           .AllowAnyHeader();
-});
+app.UseCors("AllowReactApp");
 
-
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {

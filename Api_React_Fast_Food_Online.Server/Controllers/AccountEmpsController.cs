@@ -6,6 +6,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Claims;
+using System.Data;
 
 namespace Api_React_Fast_Food_Online.Server.Controllers
 {
@@ -79,6 +80,7 @@ namespace Api_React_Fast_Food_Online.Server.Controllers
                 {
                     new Claim(ClaimTypes.Name, user.UserName),
                     new Claim(ClaimTypes.Email, user.Email),
+                    new Claim(JwtRegisteredClaimNames.Iat,((DateTimeOffset)DateTime.UtcNow).ToUnixTimeSeconds().ToString()),
                     // Thêm các thông tin khác từ user vào đây nếu cần thiết
                 }),
                 Expires = DateTime.UtcNow.AddHours(1), // Thời gian hết hạn của token

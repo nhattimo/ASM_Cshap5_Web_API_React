@@ -14,6 +14,9 @@ namespace Api_React_Fast_Food_Online.Server.Data
         public DbSet<AccountEmp> AccountEmps { get; set; }
         public DbSet<Employees> Employees { get; set; }
         public DbSet<Roles> Roles { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<ProductItem> ProductItems { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

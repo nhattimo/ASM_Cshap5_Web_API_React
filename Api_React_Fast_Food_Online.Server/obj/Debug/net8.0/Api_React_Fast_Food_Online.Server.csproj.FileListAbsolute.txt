@@ -517,3 +517,4 @@ E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\Api_React_
 E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\Api_React_Fast_Food_Online.Server\obj\Debug\net8.0\Api_React_Fast_Food_Online.Server.pdb
 E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\Api_React_Fast_Food_Online.Server\obj\Debug\net8.0\Api_React_Fast_Food_Online.Server.genruntimeconfig.cache
 E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\Api_React_Fast_Food_Online.Server\obj\Debug\net8.0\ref\Api_React_Fast_Food_Online.Server.dll
+E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\Api_React_Fast_Food_Online.Server\obj\Debug\net8.0\Api_React_Fast_Food_Online.Server.sourcelink.json

@@ -10,7 +10,7 @@ namespace Api_React_Fast_Food_Online.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("AllowSpecificOrigin")] // Áp dụng chính sách CORS đã đăng ký
+    //[EnableCors("AllowSpecificOrigin")] // Áp dụng chính sách CORS đã đăng ký
     public class RolesController : ControllerBase
     {
         private readonly RolesInterface _rolesInterface;
@@ -22,8 +22,11 @@ namespace Api_React_Fast_Food_Online.Server.Controllers
 
         // GET: api/Roles
         [HttpGet]
+        // [Authorize]
         public async Task<IActionResult> GetAll()
         {
+            var token = HttpContext.Request.Headers["Authorization"].ToString();
+            Console.WriteLine("Received Token: " + token); // Log token để kiểm tra
             var roles = await _rolesInterface.GetAllAsync();
             var roleDto = roles.Select(r => r.ToRoleDto());
             return Ok(roleDto);

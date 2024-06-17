@@ -3,83 +3,36 @@
   "WorkspaceRootPath": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\controllers\\accountempscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\controllers\\accountempscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\mappers\\rolesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\mappers\\rolesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\dtos\\rolesdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\dtos\\rolesdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\pages\\admin\\signin\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\pages\\admin\\signin\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\services\\rolesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\services\\rolesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\pages\\admin\\role\\view\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\pages\\admin\\role\\view\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.client\\src\\pages\\admin\\role\\view\\viewroles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CDCEFB3F-62F8-4257-BF00-6EC593266437}|api_react_fast_food_online.client\\api_react_fast_food_online.client.esproj|solutionrelative:api_react_fast_food_online.client\\src\\pages\\admin\\role\\view\\viewroles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|e:\\code\\code_csharp\\cshap_5\\asm_e-commerce\\api_react_fast_food_online\\api_react_fast_food_online.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025BB9B5-0FBA-4C92-9B14-E61D64842E03}|Api_React_Fast_Food_Online.Server\\Api_React_Fast_Food_Online.Server.csproj|solutionrelative:api_react_fast_food_online.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,243 +54,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAIcUAAAAAAAAAAAiwJUUAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-16T13:32:39.595Z",
+              "DocumentIndex": 2,
+              "Title": "index.jsx",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\SignIn\\index.jsx",
+              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\pages\\Admin\\SignIn\\index.jsx",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\SignIn\\index.jsx",
+              "RelativeToolTip": "api_react_fast_food_online.client\\src\\pages\\Admin\\SignIn\\index.jsx",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAUwJgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-16T14:52:17.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AccountEmpsController.cs",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\AccountEmpsController.cs",
+              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Controllers\\AccountEmpsController.cs",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\AccountEmpsController.cs",
+              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Controllers\\AccountEmpsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwF4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:41:55.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:41:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Controllers\\AuthController.cs",
               "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAjwCIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:13:57.607Z"
+              "WhenOpened": "2024-06-16T14:41:40.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\appsettings.json",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\appsettings.json",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T11:13:14.795Z",
+              "DocumentIndex": 5,
+              "Title": "ViewRoles.jsx",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\ViewRoles.jsx",
+              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\ViewRoles.jsx",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\ViewRoles.jsx",
+              "RelativeToolTip": "api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\ViewRoles.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-16T14:13:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\styles.css",
+              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\styles.css",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\styles.css",
+              "RelativeToolTip": "api_react_fast_food_online.client\\src\\pages\\Admin\\role\\view\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T14:13:06.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "main.jsx",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\main.jsx",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\main.jsx",
-              "RelativeToolTip": "api_react_fast_food_online.client\\src\\main.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-28T03:34:15.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".eslintrc.cjs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\.eslintrc.cjs",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\.eslintrc.cjs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\.eslintrc.cjs",
-              "RelativeToolTip": "api_react_fast_food_online.client\\.eslintrc.cjs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-28T03:32:31.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".gitignore",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\.gitignore",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\.gitignore",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\.gitignore",
-              "RelativeToolTip": "api_react_fast_food_online.client\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-28T03:32:29.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CHANGELOG.md",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\CHANGELOG.md",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\CHANGELOG.md",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\CHANGELOG.md",
-              "RelativeToolTip": "api_react_fast_food_online.client\\CHANGELOG.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-28T03:32:28.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "package.json",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\package.json",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\package.json",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\package.json",
-              "RelativeToolTip": "api_react_fast_food_online.client\\package.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-28T03:32:16.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "README.md",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\README.md",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\README.md",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\README.md",
-              "RelativeToolTip": "api_react_fast_food_online.client\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-28T03:32:07.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "nuget.config",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\nuget.config",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\nuget.config",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\nuget.config",
-              "RelativeToolTip": "api_react_fast_food_online.client\\nuget.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-28T03:29:31.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Program.cs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Program.cs",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Program.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAAEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:44:57.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "index.css",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\index.css",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\index.css",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\index.css",
-              "RelativeToolTip": "api_react_fast_food_online.client\\src\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-28T03:43:56.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.jsx",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\src\\App.jsx",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\src\\App.jsx",
-              "RelativeToolTip": "api_react_fast_food_online.client\\src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-28T03:48:40.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\vite.config.js",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\vite.config.js",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\vite.config.js",
-              "RelativeToolTip": "api_react_fast_food_online.client\\vite.config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-27T08:17:40.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\index.html",
-              "RelativeDocumentMoniker": "api_react_fast_food_online.client\\index.html",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\api_react_fast_food_online.client\\index.html",
-              "RelativeToolTip": "api_react_fast_food_online.client\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-27T08:17:26.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RolesMapper.cs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Mappers\\RolesMapper.cs",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Mappers\\RolesMapper.cs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Mappers\\RolesMapper.cs",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Mappers\\RolesMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:58:06.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Models\\Roles.cs",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Models\\Roles.cs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Models\\Roles.cs",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Models\\Roles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:59:35.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoleDto.cs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\DTOs\\RolesDTO\\RoleDto.cs",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\DTOs\\RolesDTO\\RoleDto.cs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\DTOs\\RolesDTO\\RoleDto.cs",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\DTOs\\RolesDTO\\RoleDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:59:10.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "RolesController.cs",
               "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Controllers\\RolesController.cs",
               "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Controllers\\RolesController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAAiAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:46:54.447Z"
+              "WhenOpened": "2024-06-16T14:06:52.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RolesServices.cs",
-              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Services\\RolesServices.cs",
-              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Services\\RolesServices.cs",
-              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Services\\RolesServices.cs",
-              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Services\\RolesServices.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Api_React_Fast_Food_Online.Server\\Program.cs",
+              "ToolTip": "E:\\CODE\\CODE_Csharp\\Cshap_5\\ASM_e-commerce\\Api_React_Fast_Food_Online\\Api_React_Fast_Food_Online.Server\\Program.cs",
+              "RelativeToolTip": "Api_React_Fast_Food_Online.Server\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T07:44:11.4Z"
+              "WhenOpened": "2024-06-16T14:03:28.808Z",
+              "EditorCaption": ""
             }
           ]
         }

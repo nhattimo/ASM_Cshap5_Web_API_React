@@ -44,7 +44,7 @@ const SignIn = () => {
             if (response.ok) {
                 const { token } = await response.json();
                 localStorage.setItem("token", token); // lưu token vào localStorage bằng localStorage.setItem("token", token)
-                console.log("lưu token vào localStorage");
+                console.log("lưu token vào localStorage : token: " + token);
                 navigate("/admin/home");
             } else {
                 const errorData = await response.json();
