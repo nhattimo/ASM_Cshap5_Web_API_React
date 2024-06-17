@@ -4,28 +4,32 @@ import { ROUTES } from "../../../../constants/routes";
 import "./styles.css"; // Import CSS file
 
 const EditRole = () => {
-    const { id } = useParams();
+    const { roleId } = useParams(); // Sử dụng đúng tên tham số là roleId
     const [roleName, setRoleName] = useState("");
     const [description, setDescription] = useState("");
     const navigate = useNavigate();
 
     useEffect(() => {
-        fetch(`http://localhost:12345/api/Roles/${id}`)
-            .then((response) => response.json())
-            .then((data) => {
-                setRoleName(data.RoleName);
-                setDescription(data.Description);
-            })
-            .catch((error) => {
-                console.error("Error fetching role:", error);
-            });
-    }, [id]);
+        console.log(roleId); // Kiểm tra giá trị của roleId
+        if (roleId) {
+            // Kiểm tra nếu roleId tồn tại
+            fetch(`http://localhost:12345/api/Roles/${roleId}`)
+                .then((response) => response.json())
+                .then((data) => {
+                    setRoleName(data.RoleName);
+                    setDescription(data.Description);
+                })
+                .catch((error) => {
+                    console.error("Error fetching role:", error);
+                });
+        }
+    }, [roleId]);
 
     const handleSubmit = (e) => {
         e.preventDefault();
         const updatedRole = { RoleName: roleName, Description: description };
 
-        fetch(`http://localhost:12345/api/Roles/${id}`, {
+        fetch(`http://localhost:12345/api/Roles/${roleId}`, {
             method: "PUT",
             headers: {
                 "Content-Type": "application/json",

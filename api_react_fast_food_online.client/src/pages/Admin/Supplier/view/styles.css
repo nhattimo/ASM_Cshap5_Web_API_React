@@ -1,0 +1,66 @@
+.suppliers-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.supplier-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+}
+
+.supplier-item h2 {
+    margin-bottom: 5px;
+}
+
+.supplier-actions {
+    margin-top: 10px;
+}
+
+.edit-button,
+.delete-button,
+.add-button {
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.edit-button {
+    background-color: #007bff;
+}
+
+.edit-button:hover {
+    background-color: #0056b3;
+}
+
+.delete-button {
+    background-color: #dc3545;
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}
+
+.add-button {
+    background-color: #28a745;
+}
+
+.add-button:hover {
+    background-color: #218838;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.supplier-item-none {
+    margin-top: 20px;
+    text-align: center;
+}

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-
+import logo from "../../../assets/icons/logo.svg";
 const SignIn = () => {
     const navigate = useNavigate();
     const [userName, setUserName] = useState("");
@@ -45,6 +45,7 @@ const SignIn = () => {
                 const { token } = await response.json();
                 localStorage.setItem("token", token); // lưu token vào localStorage bằng localStorage.setItem("token", token)
                 console.log("lưu token vào localStorage : token: " + token);
+                console.log(localStorage.getItem("token"));
                 navigate("/admin/home");
             } else {
                 const errorData = await response.json();
@@ -65,7 +66,7 @@ const SignIn = () => {
                     {/* Logo */}
                     <a href="./" className="logo">
                         <img
-                            src="./assets/icons/logo.svg"
+                            src={logo}
                             alt="Grocery Mart"
                             className="logo__img"
                         />

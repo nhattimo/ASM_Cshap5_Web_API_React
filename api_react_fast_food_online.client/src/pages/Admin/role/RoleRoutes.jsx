@@ -6,9 +6,9 @@ import ViewRoles from "./view/ViewRoles";
 const RoleRoutes = () => {
     return (
         <Routes>
-            <Route path="curd/role" element={<ViewRoles />} />
-            <Route path="curd/role/add" element={<AddRole />} />
-            <Route path="curd/role/edit/:roleId" element={<EditRole />} />
+            <Route path="" element={<ViewRoles />} />
+            <Route path="add" element={<AddRole />} />
+            <Route path="edit/:roleId" element={<EditRole />} />
         </Routes>
     );
 };

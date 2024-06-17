@@ -1,0 +1,1 @@
+E:\CODE\CODE_Csharp\Cshap_5\ASM_e-commerce\Api_React_Fast_Food_Online\api_react_fast_food_online.client\obj\Release\api_react_fast_food_online.client.esproj.CoreCompileInputs.cache

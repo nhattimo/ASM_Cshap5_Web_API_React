@@ -1,6 +1,7 @@
 using Api_React_Fast_Food_Online.Server.DTOs.Supplier;
 using Api_React_Fast_Food_Online.Server.Interfaces;
 using Api_React_Fast_Food_Online.Server.Mappers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace Api_React_Fast_Food_Online.Server.Controllers
 {
@@ -16,6 +17,8 @@ namespace Api_React_Fast_Food_Online.Server.Controllers
         }
 
         [HttpGet]
+
+
         public async Task<IActionResult> GetAll()
         {
             var suppliers = await _supplierRepo.GetAllAsync();

@@ -133,11 +133,28 @@ const AdminHeader = () => {
                                                         </li>
                                                         <li className="menu-column__item">
                                                             <a
-                                                                href="#!"
+                                                                href="/admin/curd/supplier"
                                                                 className="menu-column__link"
                                                             >
-                                                                {" "}
-                                                                Electronics{" "}
+                                                                Supplier
+                                                            </a>
+                                                            {/* Electronics */}
+                                                        </li>
+                                                        <li className="menu-column__item">
+                                                            <a
+                                                                href="/admin/curd/category"
+                                                                className="menu-column__link"
+                                                            >
+                                                                Category
+                                                            </a>
+                                                            {/* Electronics */}
+                                                        </li>
+                                                        <li className="menu-column__item">
+                                                            <a
+                                                                href="/admin/curd/productItem"
+                                                                className="menu-column__link"
+                                                            >
+                                                                Product Item
                                                             </a>
                                                             {/* Electronics */}
                                                         </li>

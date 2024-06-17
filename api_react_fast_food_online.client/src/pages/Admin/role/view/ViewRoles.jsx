@@ -75,7 +75,10 @@ const ViewRoles = () => {
                             </p>
                             <div className="role-actions">
                                 <Link
-                                    to={`curd/role/edit/${item.id}`}
+                                    to={`${ROUTES.ADMIN.ROLE.EDIT.replace(
+                                        ":id",
+                                        item.id
+                                    )}`}
                                     className="edit-button"
                                 >
                                     Edit

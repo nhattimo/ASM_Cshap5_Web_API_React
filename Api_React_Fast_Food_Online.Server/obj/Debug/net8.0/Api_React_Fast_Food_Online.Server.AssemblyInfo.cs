@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_React_Fast_Food_Online.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e50dcc8269d41008c2d0178f784c46178d5ca3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792eeeaecc5f7e34ebb5b853b287dd285f8c4c98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_React_Fast_Food_Online.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_React_Fast_Food_Online.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
