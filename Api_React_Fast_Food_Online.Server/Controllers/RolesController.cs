@@ -22,7 +22,7 @@ namespace Api_React_Fast_Food_Online.Server.Controllers
 
         // GET: api/Roles
         [HttpGet]
-        // [Authorize]
+        [Authorize]
         public async Task<IActionResult> GetAll()
         {
             var token = HttpContext.Request.Headers["Authorization"].ToString();
